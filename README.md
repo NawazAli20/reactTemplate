@@ -12,7 +12,7 @@ npm install
 npm start
 
 /****************** Manual setup React Environment ******************************/
-# React Environment Setup using Parcel
+# React Environment Setup using Parcel (Manual setup to get your hand dirty)
 
 This guide explains how to create a basic React development environment using **Parcel** as the build tool.
 
