@@ -248,10 +248,12 @@ rm -rf .parcel-cache dist
 ---
 
 # 13. Recommended Extensions for VS Code
-
+- html-essentials
+- HTML CSS Support
 - ES7+ React/Redux snippets
 - Prettier
 - Live Server
+- Live Server Preview
 - Auto Rename Tag
 
 ---
