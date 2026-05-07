@@ -1,3 +1,5 @@
+# React Template using Parcel build tool
+
 This repo will serve as a starting repo for working with react using parcel build 
 
 # Install dependecies 
